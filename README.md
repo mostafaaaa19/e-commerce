@@ -43,4 +43,4 @@ Can be improved by adding Redux or Zustand for larger state logic.
 
 📬 Contact
 
-Gergis Remon | https://github.com/G-Remon | 01001016693
+
