@@ -41,6 +41,5 @@ No authentication yet.
 
 Can be improved by adding Redux or Zustand for larger state logic.
 
-📬 Contact
 
 
