@@ -26,13 +26,6 @@ Axios
 
 Swiper
 
-🚀 How to Run
-
-git clone https://github.com/G-Remon/ecommerce.git
-cd ecommerce
-npm install
-npm run dev
-
 ⚠️ Limitations
 
 No backend, uses static or mock data.
